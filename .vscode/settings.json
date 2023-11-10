@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:djangoauthapi1}/db.sqlite3",
+            "name": "http://127.0.0.1:8000/"
+        }
+    ]
+}
